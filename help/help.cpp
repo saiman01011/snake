@@ -4,8 +4,8 @@
 #include<deque>
 
 //#include<conio.h>
-const int height = 49;
-const int width = 213;
+const int height = 6;
+const int width = 16;
 
 
 
@@ -44,7 +44,7 @@ void carta() {
 	
 }
 void anima() {
-	cout << "sadf";
+	std::cout << "sadf";
 }
 
 
